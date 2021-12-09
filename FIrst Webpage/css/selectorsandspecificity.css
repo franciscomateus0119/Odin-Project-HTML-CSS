@@ -1,0 +1,72 @@
+html, body{
+    background-color: #a7dbe3;
+    background-image: url(../img/bush.png);
+    color: #2f4c5c;
+
+    font-size: 21px;
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+h1{
+    font-size: 70px;
+    color: #3747b3;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+    margin-bottom: 0px;
+}
+
+h2{
+    margin-top: 0px;
+    color: green;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+
+    font-size: 30px;
+
+    line-height: 1.4;
+
+    color: firebrick;
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(75, 75, 75);
+    
+}
+
+a:focus{
+    color: yellow;
+}
+
+.body-text{
+    background-color: #79acd1;
+    padding: 50px;
+}
+
+.body-text p {
+    color: white;
+}
+
+.body-text a{
+    color: #d179cc;
+}
+
+.body-text a:hover{
+    color: #DDD;
+}
+
+.important-link{
+    color: yellow;
+}
+
+.body-text .important-link{
+    color: green;
+}
