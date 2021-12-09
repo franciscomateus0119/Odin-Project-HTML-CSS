@@ -1,0 +1,39 @@
+body{
+    background-color: #a7dbe3;
+    color: white;
+    font-size: 21px;
+}
+
+h1{
+    font-size: 70px;
+    color: #3747b3;
+}
+
+p{
+    color: #2f4c5c;
+}
+
+/* This is the CSS Box Model */
+
+/*  Margin; empty space around my element
+    Border; a border /photoshop stroke/ around my element
+    Padding; empty space WITH background around my element
+
+    ALL of these and on top of width and height
+*/
+.box{
+    background-image: url(../hamster.jpg);
+    width: 300px;
+    
+    margin: 100px;
+
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+
+    border-right-color: orange;
+    border-left-color: orange;
+
+    padding: 25px 100px 300px 50px; /* Top Right Bottom Left */
+    /* padding: 100px 50px; Top/Bottom Left/Right */
+}

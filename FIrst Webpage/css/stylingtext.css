@@ -1,0 +1,32 @@
+html, body{
+    background-color: #a7dbe3;
+    background-image: url(../img/bush.png);
+    color: #2f4c5c;
+
+    font-size: 21px;
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+h1{
+    font-size: 70px;
+    color: #3747b3;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+    margin-bottom: 0px;
+}
+
+h2{
+    margin-top: 0px;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+
+    line-height: 1.4;
+    
+    text-align: left;
+
+
+
+}
